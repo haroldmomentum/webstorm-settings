@@ -1,0 +1,51 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/Cellar/node/11.2.0/bin/node">
+      <version-cache last-modified="1542953006000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/11.1.0/bin/node">
+      <version-cache last-modified="1542149702000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="10.14.1" last-modified="1544065809000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/10.10.0/bin/node">
+      <version-cache last-modified="1536799855000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/10.9.0/bin/node">
+      <version-cache last-modified="1535084473000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/9.11.1/bin/node">
+      <version-cache last-modified="0" />
+    </local-interpreter>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6202346" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="KEYMAP" value="tab&#10;Pag&#10;Nav&#10;start" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SearchEveryWhereHistory" value="MgoalsGoalEditObject&#10;mgoalGoalEditObjectList&#10;Suggest&#10;ExploreGoa&#10;exploregoal.ts" />
+    <property name="SettingsSearchHistory" value="code&#10;Type&#10;File Watc&#10;sass&#10;TypeScript" />
+    <property name="WebStorm.enableDefaultTooltipFixes" value="true" />
+    <property name="WebStorm.enableSmartQuotes" value="true" />
+    <property name="WebStorm.initialConfigurationShown" value="true" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="evlsprt.181" value="1638ffc9e91" />
+    <property name="evlsprt2.181" value="163617045f0" />
+    <property name="evlsprt3.181" value="11" />
+    <property name="evlsprt3.183" value="15" />
+    <property name="file.gist.reindex.count" value="224303" />
+    <property name="js.rename.search.for.text.occurrences" value="false" />
+    <property name="js.rename.search.in.comments" value="true" />
+    <property name="settings.code.style.selected.tab.HTML" value="Other" />
+    <property name="settings.code.style.selected.tab.SCSS" value="Other" />
+    <property name="settings.code.style.selected.tab.TypeScript" value="Wrapping and Braces" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+</application>
