@@ -1,7 +1,13 @@
 <keymap version="1" name="Mct" parent="Mac OS X 10.5+">
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+  </action>
   <action id="Back">
     <keyboard-shortcut first-keystroke="meta open_bracket" />
     <mouse-shortcut keystroke="button4" />
+  </action>
+  <action id="EditorLeft">
+    <keyboard-shortcut first-keystroke="left" />
   </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta close_bracket" />
